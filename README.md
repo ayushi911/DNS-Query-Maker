@@ -4,4 +4,4 @@ Used:
 - Language: Python3
 - GUI (library- Gradio)
 <br>The GUI looks liks:<br>
-![alt text](https://github.com/ayushi911/DNS-Query-Maker/blob/master/GUI.png)
+![alt text](https://github.com/ayushi911/DNS-Query-Maker/blob/main/GUI.png)
